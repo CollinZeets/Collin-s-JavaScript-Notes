@@ -8,4 +8,4 @@ The history of GIT started with an open source software project call Linux kerne
 
 The last Topic of discussion is Workflow. The three steps of workflow are Add, Commit, and Post. The add step is putting in the information you wish to change to your file. The commit step is the points to the most recent commit. The post step is sending it to GIT and also describing what you did in the add step.
 
-- [Table of Contents] (README.md)
+- [Table of Contents](README.md)
