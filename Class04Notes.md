@@ -1,4 +1,4 @@
-# Sturcute web pages with HTML notes
+# Structure web pages with HTML notes
 
 ## importance of structure in webpages 
 ### Chapter 1
