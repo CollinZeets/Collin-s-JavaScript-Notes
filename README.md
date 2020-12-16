@@ -5,6 +5,6 @@ Notes for DeltaV 102 Course
 
 # Table of Contents
 - [Class 03: Revision and the Cloud](Class03Notes.md)
-- [Lab: 03 - Revision and the Cloud](Lab:03-RevisionAndTheCloud.md)
-- [CLass 04: Sturcture web pages with HTML](Class04Notes.md)
-- [Class05: Design web pages with CSS](Class05Notes.md)
+- [Lab 03: Revision and the Cloud](Lab03.md)
+- [Class 04: Structure web pages with HTML](Class04Notes.md)
+- [Class 05: Design web pages with CSS](Class05Notes.md)
