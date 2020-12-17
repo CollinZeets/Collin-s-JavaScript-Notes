@@ -12,3 +12,4 @@ Notes for DeltaV 102 Course
 - [Class 06: Dynamic web pages with JavaScript](Class06Notes.md)
 - [Class 06: Computer Architecture and Logic](Class06BNotes.md)
 - [Class 07: Programming With JavaScript](Class07Notes.md)
+- [Class 08: Operators and Loops](Class08Notes.md)
